@@ -9,3 +9,8 @@ The work highlights my skills in Excel-based analysis, SQL querying, Python, and
 * [EXCEL](https://github.com/)
 
 ## Excel
+## Excel
+
+| Project Link | Description |
+|-------------|-------------|
+| [Excel projects ](https://github.com/karan-meghwal/amazon-sales) | Real-world Excel data analysis projects based on Amazon sales and Rapido ride data, focusing on revenue trends, cancellations, demand patterns, peak hours, and operational insights using Pivot Tables, formulas, and dashboards.|
