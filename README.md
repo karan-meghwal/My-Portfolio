@@ -8,4 +8,4 @@ The work highlights my skills in Excel-based analysis, SQL querying, Python, and
 ## Contents 📝
 * [EXCEL](https://github.com/karan-meghwal/amazon-sales-analysis-excel)
 
-## EXCEL
+## Excel
