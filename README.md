@@ -6,10 +6,12 @@ Each project focuses on extracting meaningful insights from raw data and transla
 The work highlights my skills in Excel-based analysis, SQL querying, Python, and dashboard-driven reporting.
 
 ## Contents 📝
-* [EXCEL](https://github.com/)
+* [Excel](#excel)
 
+  
 ## Excel
-
 | Project Link | Description |
 |-------------|-------------|
-| [Excel projects ](https://github.com/karan-meghwal/amazon-sales) | Real-world Excel data analysis projects based on Amazon sales and Rapido ride data, focusing on revenue trends, cancellations, demand patterns, peak hours, and operational insights using Pivot Tables, formulas, and dashboards.|
+| [Amazon Sales Analysis 📊](https://github.com/karan-meghwal/amazon-sales-analysis-excel) | End-to-end **sales performance analysis** using Excel. Analyzed total revenue, cancelled & returned orders, net revenue impact, and monthly sales trends using **Pivot Tables, formulas, and dashboards** to derive business insights. |
+| [Rapido Data Analysis 🚲](https://github.com/karan-meghwal/Ride-Hailing-Business-Performance-Revenue-Analysis) | Real-world **ride & operations analysis** for Rapido using Excel. Explored ride demand patterns, peak hours, earnings trends, and performance metrics using **data cleaning, pivot analysis, and visual dashboards** to support decision-making. |
+
