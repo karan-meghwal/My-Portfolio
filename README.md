@@ -9,7 +9,6 @@ The work highlights my skills in Excel-based analysis, SQL querying, Python, and
 * [EXCEL](https://github.com/)
 
 ## Excel
-## Excel
 
 | Project Link | Description |
 |-------------|-------------|
