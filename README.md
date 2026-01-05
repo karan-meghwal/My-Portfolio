@@ -6,6 +6,6 @@ Each project focuses on extracting meaningful insights from raw data and transla
 The work highlights my skills in Excel-based analysis, SQL querying, Python, and dashboard-driven reporting.
 
 ## Contents 📝
-* [EXCEL](https://github.com/karan-meghwal/amazon-sales-analysis-excel)
+* [EXCEL](https://github.com/)
 
 ## Excel
